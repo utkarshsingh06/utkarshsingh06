@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A enthusiastic guy about tech</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCryptoOo%2FCryptoOO&psig=AOvVaw0FWbrf0CvCbCUI3jcfuPI_&ust=1691923182435000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjxw5P31oADFQAAAAAdAAAAABAd"/>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2db53b882360e0a561101fdaf0c7e6be355ae91cd1d53d7d47577cfba9a229d8/68747470733a2f2f73696d706c657061737369766563617368666c6f772e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f576f726b2d46756e2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
 
