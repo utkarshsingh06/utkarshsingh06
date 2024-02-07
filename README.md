@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A enthusiastic guy about tech</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/2db53b882360e0a561101fdaf0c7e6be355ae91cd1d53d7d47577cfba9a229d8/68747470733a2f2f73696d706c657061737369766563617368666c6f772e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f576f726b2d46756e2e676966"/>
+<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/fox-computer-family-guy-5nvQ7fBWhPVXXOcfRI"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
 
