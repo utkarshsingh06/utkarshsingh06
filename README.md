@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A enthusiastic guy about tech</h3>
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/fox-computer-family-guy-5nvQ7fBWhPVXXOcfRI"/>
+<img align="right" alt="coding" width="300" src="https://iamjayakumars.files.wordpress.com/2014/09/geek-gif.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
 
