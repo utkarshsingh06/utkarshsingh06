@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **us9766134@gmail.com**
 
+- Visit me at my portfolio [https://utkarshsingh06.github.io/myportfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-singh-a5013b202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-singh-a5013b202/" height="30" width="40" /></a>
