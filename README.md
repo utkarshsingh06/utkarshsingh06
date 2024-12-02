@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/utkarshsingh06](https://github.com/utkarshsingh06)
 -  Currently working on Duckcreek Tools :).
+- 👨‍💻 All of my projects are available at [https://github.com/utkarshsingh06](https://github.com/utkarshsingh06)
 - 📫 How to reach me **us9766134@gmail.com**
 
 - Visit me at my portfolio [https://utkarshsingh06.github.io/myportfolio/)
