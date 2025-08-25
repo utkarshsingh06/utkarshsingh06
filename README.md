@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">A Sports lover enthusiastic about tech</h3>
-<img align="right" alt="coding" width="300" src="https://iamjayakumars.files.wordpress.com/2014/09/geek-gif.gif"/>
+<h3 align="center">🏀 A Sports Lover | 💻 Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Associate+Software+Engineer+Level+1;Passionate+about+Code+and+Innovation" alt="="right" alt="codingrdpress.com/2014/09/geek-gif.gif
 
--  Currently working on Guidewire/Duckcreek Tools :))
-- 👨‍💻 All of my projects are available at [https://github.com/utkarshsingh06](https://github.com/utkarshsingh06)
-- 📫 How to reach me **us9766134@gmail.com**
-
-- Visit me at my portfolio [https://utkarshsingh06.github.io/myportfolio/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-singh-10b169315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-singh-10b169315/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=le=flat
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshsingh06&show_icons=true&locale=en&layout=compact" alt="utkarshsingh06" /></p>
+### 🚀 About Me
+- 🔧 Currently working on **Guidewire/Duckcreek Tools** 😊  
+- 👨‍💻 All my projects are available at [GitHub 
+- 📫 Reach me at **us9766134@gmail.com**  
+- 🌐 Visit my portfolio: [utkarshsingh06.github.io/myportfolio]---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh06&" alt="utkarshsingh06" /></p>
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/utkarsh-singh-10b169315/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40 alt="C" width="40" height="lusplus-original.svg" alt/css3-original-wordmark.svg" alt="CSS3ght="lutter" width="40"Git" width="40" height="s/html5/html5-original-wordmark.svg" alt="HTML5" widthevicons/devicon/master/icons/javascript/javascript-original.svg"x-original.svg" alt="Linux" width="40" heightysql-original-wordmark.svg" alt="Myl-wordmark.svg" alt="Nodet="PHP" width="40" height="" alt="Python" width="40" heightale=en&layout=compact" alt="Top Languagesmg src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh06" alt="� Contribution Snake
+<p align="center">
+  <img src="https://github.com/utkarshsingh06/utkarshsingh06/blob/outputntribution-grid-snake.svg
+</p>
