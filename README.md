@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh06&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh06" /> </p>
 
--  Currently working on a website Crawler used for Merchnat Verifications :))
+-  Currently working on a website Crawler used for Merchant Verifications :))
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshsingh06](https://github.com/utkarshsingh06)
 - 📫 How to reach me **us9766134@gmail.com**
 
